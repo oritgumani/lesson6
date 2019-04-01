@@ -11,7 +11,7 @@ using Microsoft.Extensions.Logging;
 namespace lesson6
 {
     public class Program
-    {
+    {//gtttttttttttttttt
         public static void Main(string[] args)
         {
             BuildWebHost(args).Run();
